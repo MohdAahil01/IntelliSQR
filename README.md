@@ -106,7 +106,7 @@ Runs at: http://localhost:5173
 
 🎥 👉 Click here to watch the demo video
 
-Ensure this link is public (anyone with link can view).
+(https://drive.google.com/file/d/1GZQ6mp4ik42sxKXc70TwBKNbmfAk4WcC/view?usp=sharing)
 
 
 Made with 💻 by Mohd Aahil Uddin
