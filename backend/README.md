@@ -1,6 +1,4 @@
----
-
-## 📁 `/backend/README.md`
+##  `/backend/README.md`
 
 ```md
 # IntelliSQR – Backend
